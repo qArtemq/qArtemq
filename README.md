@@ -1,9 +1,4 @@
-# 👋 Hi, I'm Artem
-
-🎮 **Junior Unity Developer**
-
-I love turning ideas into playable experiences — from fast-paced 2D action games to 3D runners and small online multiplayer prototypes.  
-Currently focusing on Unity 6, C#, gameplay architecture, and multiplayer systems.
+# 🎮 **Junior Unity Developer**
 
 ---
 
