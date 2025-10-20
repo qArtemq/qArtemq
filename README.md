@@ -15,4 +15,5 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email:** hmnjgartem@gmail.com  
+- Email: [hmnjgartem@gmail.com](mailto:hmnjgartem@gmail.com)  
+- itch.io portfolio: [aerunstudio.itch.io](https://aerunstudio.itch.io)  
